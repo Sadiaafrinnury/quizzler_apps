@@ -1,16 +1,24 @@
 # quizzler_apps
 
-A new Flutter project.
+Quizzler is a simple quiz app built with Flutter, a cross-platform mobile app development framework. This repository contains the design files and source code for the Quizzler app, which allows users to answer true/false questions and check their knowledge.
+
+## Features
+
+- **Simple UI**: Clean and intuitive user interface for easy navigation and interaction.
+- **True/False Questions**: Present true/false questions for users to answer.
+- **Instant Feedback**: Provide immediate feedback on user responses with icons indicating correct or incorrect answers.
+- **Score Tracking**: Keep track of the user's score as they progress through the quiz.
+- **Alerts for End of Quiz**: Display an alert when the user reaches the end of the quiz, providing a summary of their performance.
+
+
+Output:
+
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Technologies Used
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart**: The programming language used to develop Flutter apps.
