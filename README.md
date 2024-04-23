@@ -13,7 +13,7 @@ Quizzler is a simple quiz app built with Flutter, a cross-platform mobile app de
 
 Output:
 
-
+https://github.com/Sadiaafrinnury/quizzler_apps/assets/70070134/c8316e36-6c26-4aaf-8dc3-d06d2e8f8968
 
 
 ## Getting Started
